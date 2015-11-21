@@ -14,6 +14,6 @@ function draw()
     strokeWidth(5)
 
     -- Do your drawing here
-    
+    sprite("Planet Cute:Character Boy", 400,300)
 end
 
